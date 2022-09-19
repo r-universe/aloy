@@ -8,6 +8,11 @@
 	url = https://github.com/aloy/hlmdiag
 	shallow = true
 	registered = true
+[submodule "lmeresampler"]
+	path = lmeresampler
+	url = https://github.com/aloy/lmeresampler
+	shallow = true
+	registered = true
 [submodule "qqplotr"]
 	path = qqplotr
 	url = https://github.com/aloy/qqplotr
