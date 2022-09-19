@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "lmeresampler",
-    "oncran": true
-  },
-  {
     "package": "qqplotr",
     "oncran": true
   }
