@@ -1,6 +1,6 @@
 [
   {
-    "package": "HLMdiag",
+    "package": "qqplotr",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "qqplotr",
+    "package": "HLMdiag",
     "oncran": true
   }
 ]
