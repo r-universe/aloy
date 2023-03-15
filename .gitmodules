@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "qqplotr"]
-	path = qqplotr
-	url = https://github.com/aloy/qqplotr
+[submodule "HLMdiag"]
+	path = HLMdiag
+	url = https://github.com/aloy/hlmdiag
 	shallow = true
 	registered = true
 [submodule "lmeresampler"]
@@ -13,8 +13,8 @@
 	url = https://github.com/aloy/lmeresampler
 	shallow = true
 	registered = true
-[submodule "HLMdiag"]
-	path = HLMdiag
-	url = https://github.com/aloy/hlmdiag
+[submodule "qqplotr"]
+	path = qqplotr
+	url = https://github.com/aloy/qqplotr
 	shallow = true
 	registered = true
